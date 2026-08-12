@@ -41,7 +41,7 @@ I'm especially interested in **systems programming, backend development, algorit
 <br>
 <br>
 
-<h2 align="center">😎 What I Work With (Mostly)</h2>
+<h2 align="center"> What I Work With (Mostly)</h2>
 
 <div>
 
