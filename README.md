@@ -8,7 +8,7 @@
 
 I'm a passionate Software Engineering student who enjoys building software from the ground up, solving challenging problems, and understanding how things work under the hood.
 
-I'm especially interested in **systems programming, backend development, algorithms, and developer tools**, while also enjoying full-stack development and building practical products.
+I'm especially interested in **systems programming, backend development, and developer tools**, while also enjoying full-stack development and building practical products.
 
 <br>
 
@@ -23,7 +23,7 @@ I'm especially interested in **systems programming, backend development, algorit
 
  ✦ Currently studying <b>Software Engineering</b> in Libya.
 
- ✦ Interested in <b>Systems Programming, Backend Development & Algorithms</b>.
+ ✦ Interested in <b>Systems Programmin& Backend Development</b>.
 
  ✦ I enjoy competitive programming and participating in <b>ICPC</b> competitions.
 
