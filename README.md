@@ -1,5 +1,4 @@
 
-<img src="./assets/images/herobanner.gif">
 
 <h1 align="center">Hello Traveler, I'm Sabry 👋</h1>
 
@@ -14,7 +13,7 @@ I'm especially interested in **systems programming, backend development, algorit
 <br>
 
 <div>
-  <img src="./assets/images/haruhiro.png" align="left" width="200px">
+  <img src="./assets/images/" align="left" width="200px">
 
   <p align="right">
 
