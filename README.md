@@ -1,7 +1,5 @@
-
-<img src= "./assets/images/MadhojatT.jpeg" width="100%">
 <br>
-<h1 align="center">Hello Traveler, I'm Sabry </h1>
+<h1>Hello Traveler, I'm Sabry </h1>
 
 <p>
   <b>Software Engineering Student</b>
@@ -14,7 +12,7 @@ I'm especially interested in **system programming, backend development, and deve
 <br>
 
 <div>
-  <img src="./assets/images/" align="left" width="200px">
+
 
   <p align="right">
 
@@ -91,9 +89,7 @@ I'm especially interested in **system programming, backend development, and deve
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SA-BRY&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SA-BRY&theme=tokyonight&hide_border=true" />
