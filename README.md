@@ -1,5 +1,5 @@
 
-<img src= "./assets/images/_ (1).jpeg" >
+<img src= "./assets/images/_.jpeg" >
 <h1 align="center">Hello Traveler, I'm Sabry 👋</h1>
 
 <p align="center">
