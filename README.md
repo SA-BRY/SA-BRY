@@ -1,5 +1,5 @@
 
-<img src= "./assets/images/A Bench Before the Journey.jpeg" width="100%">
+<img src= "./assets/images/MadhojatT.jpeg" width="100%">
 <br>
 <h1 align="center">Hello Traveler, I'm Sabry </h1>
 
