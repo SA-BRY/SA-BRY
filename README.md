@@ -1,14 +1,15 @@
 
-<img src= "./assets/images/A Bench Before the Journey.jpeg" >
-<h1 align="center">Hello Traveler, I'm Sabry 👋</h1>
+<img src= "./assets/images/A Bench Before the Journey.jpeg" width="100%">
+<br>
+<h1 align="center">Hello Traveler, I'm Sabry </h1>
 
-<p align="center">
-  <b>Software Engineering Student • Developer • Systems Enthusiast</b>
+<p>
+  <b>Software Engineering Student</b>
 </p>
 
 I'm a passionate Software Engineering student who enjoys building software from the ground up, solving challenging problems, and understanding how things work under the hood.
 
-I'm especially interested in **systems programming, backend development, and developer tools**, while also enjoying full-stack development and building practical products.
+I'm especially interested in **system programming, backend development, and developer tools**, while also enjoying full-stack development and building practical products.
 
 <br>
 
@@ -27,13 +28,13 @@ I'm especially interested in **systems programming, backend development, and dev
 
  ✦ I enjoy competitive programming and participating in <b>ICPC</b> competitions.
 
- ✦ I like understanding how software works at a low level, not just using frameworks.
+ ✦ I like understanding how software works at a low level.
 
  ✦ Currently exploring <b>Go, C/C++, TypeScript </b>.
 
  ✦ I also enjoy building tools, experimenting with new technologies, and breaking things to understand them.
 
- ✦ Nice to meet you! 👋
+ ✦ Nice to meet you! 
 
   </p>
 </div>
