@@ -15,30 +15,6 @@
 I'm a passionate Software Engineering student who enjoys building software from the ground up, solving challenging problems, and understanding how things work under the hood.
 
 I'm especially interested in **system programming, backend development, and developer tools**, while also enjoying full-stack development and building practical products.
-
-<div>
-
-  <p align="right">
-
- ✦ You may know me as <b>Sabry</b>.
-
- ✦ Currently studying <b>Software Engineering</b>.
-
- ✦ Interested in <b>Systems Programmin& Backend Development</b>.
-
- ✦ I enjoy competitive programming and participating in <b>ICPC</b> competitions.
-
- ✦ I like understanding how software works at a low level.
-
- ✦ Currently exploring <b>Go, C/C++, TypeScript </b>.
-
- ✦ I also enjoy building tools, experimenting with new technologies, and breaking things to understand them.
-
- ✦ Nice to meet you! 
-
-  </p>
-</div>
-
 <br>
 <h2> What I Work With (Mostly)</h2>
 
@@ -79,15 +55,32 @@ I'm especially interested in **system programming, backend development, and deve
 </div>
 
 
+<div>
 
-<h2 align="center">GitHub Stats</h2>
+  <p align="right">
 
+ ✦ You may know me as <b>Sabry</b>.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SA-BRY&theme=tokyonight&hide_border=true" />
-</p>
+ ✦ Currently studying <b>Software Engineering</b>.
+
+ ✦ Interested in <b>Systems Programmin& Backend Development</b>.
+
+ ✦ I enjoy competitive programming and participating in <b>ICPC</b> competitions.
+
+ ✦ I like understanding how software works at a low level.
+
+ ✦ Currently exploring <b>Go, C/C++, TypeScript </b>.
+
+ ✦ I also enjoy building tools, experimenting with new technologies, and breaking things to understand them.
+
+ ✦ Nice to meet you! 
+
+  </p>
+</div>
 
 <br>
+<h2> What I Work With (Mostly)</h2>
+
 
 <p align="center">
   Thanks for visiting! See you around 👋
