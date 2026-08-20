@@ -1,6 +1,13 @@
 <br>
 <h1>Hello Traveler, I'm Sabry </h1>
+<br>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SA-BRY&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
 <p>
   <b>Software Engineering Student</b>
 </p>
