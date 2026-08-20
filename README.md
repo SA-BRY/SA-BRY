@@ -9,18 +9,13 @@ I'm a passionate Software Engineering student who enjoys building software from 
 
 I'm especially interested in **system programming, backend development, and developer tools**, while also enjoying full-stack development and building practical products.
 
-<br>
-
 <div>
-
 
   <p align="right">
 
- 
-
  ✦ You may know me as <b>Sabry</b>.
 
- ✦ Currently studying <b>Software Engineering</b> in Libya.
+ ✦ Currently studying <b>Software Engineering</b>.
 
  ✦ Interested in <b>Systems Programmin& Backend Development</b>.
 
@@ -38,9 +33,7 @@ I'm especially interested in **system programming, backend development, and deve
 </div>
 
 <br>
-<br>
-
-<h2 align="center"> What I Work With (Mostly)</h2>
+<h2> What I Work With (Mostly)</h2>
 
 <div>
 
@@ -78,17 +71,9 @@ I'm especially interested in **system programming, backend development, and deve
 
 </div>
 
-<br>
-<br>
-
-  Currently practicing algorithms, data structures, problem solving and competitive programming.
-</p>
-
-<br>
 
 
 <h2 align="center">GitHub Stats</h2>
-
 
 
 <p align="center">
