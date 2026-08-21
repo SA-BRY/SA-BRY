@@ -76,9 +76,6 @@ I'm especially interested in **system programming, backend development, and deve
   </p>
 </div>
 
-<br>
-<h2> What I Work With (Mostly)</h2>
-
 
 <p align="center">
   Thanks for visiting! See you around 👋
